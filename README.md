@@ -1,11 +1,11 @@
 # Weedmaps Clone — White-Label Multi-Vendor E-Commerce Marketplace by Miracuves
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Try_Now-e8344f?style=for-the-badge)](https://mxweedmaps.mimeld.com)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Try_Now-e8344f?style=for-the-badge)](https://mxdemo.mimeld.com)
 [![Website](https://img.shields.io/badge/Solution_Page-miracuves.com-0b0b10?style=for-the-badge)](https://miracuves.com/weedmaps-clone/)
-[![Delivery](https://img.shields.io/badge/Go_Live-6_Working_Days-2ecc8f?style=for-the-badge)](https://miracuves.com/weedmaps-clone/#pricing)
-[![Support](https://img.shields.io/badge/Support-60_Days_+_12mo_Updates-blue?style=for-the-badge)](https://miracuves.com/facts/)
+[![Delivery](https://img.shields.io/badge/Go_Live-6_Working_Days-2ecc8f?style=for-the-badge)](https://miracuves.com/weedmaps-clone/#features)
+[![Support](https://img.shields.io/badge/Support-60_Days_+_12mo_Updates-blue?style=for-the-badge)](https://miracuves.com/weedmaps-clone/#features)
 
-**MXWeedmaps** is a production-ready, white-label Weedmaps clone: a complete multi-vendor marketplace with buyer, seller, and admin panels — delivered with **100% source code ownership** in **6 working days**.
+**MXDemo** is a production-ready, white-label Weedmaps clone: a complete multi-vendor marketplace with buyer, seller, and admin panels — delivered with **100% source code ownership** in **6 working days**.
 
 > 🛍️ **See it running before you talk to anyone.** Live buyer app, seller dashboard, and admin console — demo credentials are printed on the [solution page](https://miracuves.com/weedmaps-clone#demo). No sales call required.
 
@@ -16,7 +16,7 @@
 | Environment | URL | What you can test |
 |---|---|---|
 | 📱 Buyer App | [mas.mimeld.com](https://mas.mimeld.com) | Search, cart, checkout, track order, returns |
-| 🌐 Web Storefront | [mxweedmaps.mimeld.com](https://mxweedmaps.mimeld.com) | Full shopping experience in the browser |
+| 🌐 Web Storefront | [mxdemo.mimeld.com](https://mxdemo.mimeld.com) | Full shopping experience in the browser |
 | 🏪 Seller Dashboard | [Solution page → Demo](https://miracuves.com/weedmaps-clone#demo) | Listings, orders, inventory, analytics, payouts |
 | 🛠️ Admin Console | [Solution page → Demo](https://miracuves.com/weedmaps-clone#demo) | Sellers, categories, commissions, fraud, analytics |
 
@@ -71,7 +71,7 @@ flowchart LR
 - ✅ 60 days post-launch support + 12 months of free updates
 - ✅ Documentation & handover
 
-**Pricing:** from **$2,899**, transparent on the [solution page](https://miracuves.com/weedmaps-clone/#pricing) — no "contact us for quote" games.
+**Pricing:** from **$2,899**, transparent on the [solution page](https://miracuves.com/weedmaps-clone/#features) — no "contact us for quote" games.
 
 ## 🆚 Why Not Build From Scratch?
 
@@ -80,10 +80,12 @@ Custom e-commerce marketplaces run $80k–$500k and 6–14 months. A proven whit
 ## 📚 Resources
 
 - 📖 [Weedmaps Clone — Full Solution Page](https://miracuves.com/weedmaps-clone) (features, pricing, demos, FAQ)
-- 💰 [How Much Does a Marketplace App Cost in 2026?](https://miracuves.com/weedmaps-clone#pricing) pricing breakdown & what's included
-- 📝 [Best Weedmaps Clone Script in 2026](https://miracuves.com/weedmaps-clone/blog/) features, pricing & launch guide
-- 🧠 [Multi-Vendor Marketplace Economics: Commission Design](https://miracuves.com/weedmaps-clone/blog/) tiers, take rates, GMV math
-- ✅ [Miracuves Facts & Claims Ledger](https://miracuves.com/weedmaps-clone/facts/) every claim we make, verified
+- 💰 [How Much Does a Marketplace App Cost in 2026?](https://miracuves.com/weedmaps-clone#features) pricing breakdown & what's included
+- 📝 [Best Weedmaps Clone Script in 2026](https://miracuves.com/weedmaps-clone#features) features, pricing & launch guide
+- 🧠 [Multi-Vendor Marketplace Economics: Commission Design](https://miracuves.com/weedmaps-clone#features) tiers, take rates, GMV math
+- ✅ [Miracuves Facts & Claims Ledger](https://miracuves.com/weedmaps-clone#faq) every claim we make, verified
+- 💻 [Weedmaps Clone — Technical Stack](https://miracuves.com/weedmaps-clone#techstack) languages, databases, infra, payments, hosting
+- 🔄 [Weedmaps Clone — How It Works / User Flow](https://miracuves.com/weedmaps-clone#flow) step-by-step product walkthrough
 
 ## 🏢 About Miracuves
 
@@ -95,7 +97,7 @@ Custom e-commerce marketplaces run $80k–$500k and 6–14 months. A proven whit
 
 ### ⚠️ Note on This Repository
 
-This repository is a product overview. The full source code is delivered to clients on purchase — see [what’s included](https://miracuves.com/weedmaps-clone/#included). For a hands-on evaluation, use the live demos above; credentials are public on the solution page.
+This repository is a product overview. The full source code is delivered to clients on purchase — see [what’s included](https://miracuves.com/weedmaps-clone/#features). For a hands-on evaluation, use the live demos above; credentials are public on the solution page.
 
 *Keywords: weedmaps clone, weedmaps clone script, ecommerce marketplace, multi-vendor, white label marketplace, online shopping, Flutter ecommerce app, Node.js marketplace*
 
@@ -106,9 +108,9 @@ This repository is a product overview. The full source code is delivered to clie
 TEMPLATE VARIABLE KEY — auto-generated from Netflix-Clone pattern
 ══════════════════════════════════════════════════
 {APP_NAME}        Weedmaps Clone
-{MX_NAME}         MXWeedmaps
+{MX_NAME}         MXDemo
 {CATEGORY}        Multi-Vendor E-Commerce Marketplace
-{DEMO_WEB}        mxweedmaps.mimeld.com
+{DEMO_WEB}        mxdemo.mimeld.com
 {PRICE}           $2,899
 {SLUG}            weedmaps-clone
 {SOLUTION_URL}    https://miracuves.com/weedmaps-clone/
